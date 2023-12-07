@@ -9,7 +9,7 @@
 - [Chrome extension](https://chrome.google.com/webstore/detail/petra-aptos-wallet/ejjladinnckdgjemekebdpeokbikhfci)
 - [Feature requests](https://feedback.petra.app)
 
-
+/,.
 ### 🐛 Reporting issues / bugs 
 
 Please file bugs by going to the [issues](https://github.com/aptos-labs/petra-wallet/issues) tab and creating a new issue. You can use this template for creating an issue
